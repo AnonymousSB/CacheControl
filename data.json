@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "street": "123 Kapahulu St",
+      "city": "Honolulu",
+      "state": "HI",
+      "postalCode": "96815",
+      "taxRate": "4.1"
+    },
+    {
+      "street": "567 Kahala St",
+      "city": "Honolulu",
+      "state": "HI",
+      "postalCode": "96816",
+      "taxRate": "4.4"
+    },
+    {
+      "street": "890 Waipaho St",
+      "city": "Honolulu",
+      "state": "HI",
+      "postalCode": "96817",
+      "taxRate": "4.3"
+    },
+    {
+      "street": "123 Nimitz Blvd",
+      "city": "Honolulu",
+      "state": "HI",
+      "postalCode": "96817",
+      "taxRate": "4.3"
+    }
+  ]
+}
